@@ -1,2 +1,2 @@
-# kwdevportfolio
-Professional Portfolio of Full Stack Web Development Work
+# portfolioMay2018
+Google-themed portfolio
