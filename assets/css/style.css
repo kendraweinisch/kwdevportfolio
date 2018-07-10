@@ -24,6 +24,7 @@ justify-content: space-evenly;
 .main-nav_branding {
 display: flex;
 justify-content: flex-start;
+font-size: 40px;
 }
 .heading {
 display: flex;
@@ -56,4 +57,8 @@ width:100%;
 .iconSizing {
     width: 25px;
     height: auto;
+}
+.font {
+    font: medium arial,sans-serif;
+    color: rgb 255,255,255;
 }
