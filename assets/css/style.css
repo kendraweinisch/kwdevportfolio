@@ -1,3 +1,6 @@
+.btn-group{
+	width: 500px;
+}
 .btn-lg:hover {
 	background-color: #fff !important;
 	color: rgba(117, 117, 117, 1);
@@ -5,7 +8,10 @@
 .btn-secondary{
 	color: rgba(117, 117, 117, 1);
     background-color: #ffffff;
-    border-color: rgba(117, 117, 117, 1);
+	border-color: rgba(117, 117, 117, 1);
+}
+.btn-left{
+	width: 100%;
 }
 .button {
     display: flex;
